@@ -189,3 +189,7 @@ body {
     line-height: 1.71;
     color: var(--white-main-color);
 }
+
+.portfolio {
+    color: var(--blue-color);
+}
